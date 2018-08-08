@@ -1,4 +1,4 @@
-package com.408.main;
+package com.haramiak.main;
 
 import com.badlogic.gdx.ApplicationAdapter;
 import com.badlogic.gdx.Gdx;

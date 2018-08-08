@@ -1,8 +1,8 @@
-package com.408.main.desktop;
+package com.haramiak.main.desktop;
 
 import com.badlogic.gdx.backends.lwjgl.LwjglApplication;
 import com.badlogic.gdx.backends.lwjgl.LwjglApplicationConfiguration;
-import com.408.main.Launcher;
+import com.haramiak.main.Launcher;
 
 public class DesktopLauncher {
 	public static void main (String[] arg) {
